@@ -19,7 +19,7 @@
 
       "Fire": "#8CD17D",
 
-      "Flying": "A05B88",
+      "Flying": "#A05B88",
 
       "Ghost": "#B6992D",
 
